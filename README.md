@@ -1,5 +1,9 @@
 # todolist
 
+## Screenshot
+
+![Minion](screenshots/ss.png)
+
 ## Project setup
 ```
 npm install
